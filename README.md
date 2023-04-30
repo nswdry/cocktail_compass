@@ -49,5 +49,8 @@
 - β版を RUNTEQ 内リリース（MVP）：5月末 〆切
 - 本番リリース：6月末
 
-## 画面遷移図(figmaリンク)
+### 画面遷移図
 https://www.figma.com/file/T8XcBuPQiObRhju4irvj3y/%E7%84%A1%E9%A1%8C?node-id=0%3A1&t=e5p2xXKiIz53TgVg-1
+
+### ER図
+https://gyazo.com/e7087f8aa8b98fe9c52fb25c93f96ef0
